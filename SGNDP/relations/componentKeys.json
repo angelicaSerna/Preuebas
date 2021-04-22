@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_ANIMALTUO_865": {
+			"name": "Animal"
+		},
 		"EN_COSAROULA_825": {
 			"name": "Cosa"
 		},
