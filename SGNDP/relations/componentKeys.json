@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_COSAROULA_825": {
+			"name": "Cosa"
+		},
 		"EN_PERSONASJ_343": {
 			"name": "Persona"
 		}
