@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "MPRYC",
+	"modules": [
+		{
+			"moduleId": "MPRYC",
+			"moduleName": "MiPreoyectoGIT",
+			"subModules": [
+				{
+					"subModuleId": "PRBAS",
+					"subModuleName": "Pruebas"
+				}
+			]
+		}
+	],
+	"projectName": "PrimerProyecto",
+	"subModuleId": "PRBAS"
+}
