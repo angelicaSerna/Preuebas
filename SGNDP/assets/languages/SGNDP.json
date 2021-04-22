@@ -1,10 +1,11 @@
 {
-    "SGNDP": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"SGNDP": {
+		"LBL": {
+			"LBL_SGNDP_1IDOIPRWX_23429": "FORMULARIO 1",
+			"LBL_SGNDP_NOMBREDLL_65575": "Nombre del Gato",
+			"LBL_SGNDP_NOMBREDUD_35695": "Nombre del Due\u00f1o"
+		},
+		"MSG": {
+		}
+	}
 }
