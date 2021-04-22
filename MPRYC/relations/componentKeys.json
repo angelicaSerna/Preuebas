@@ -2,12 +2,16 @@
 	"Entities": {
 		"EN_ANGELICAA_231": {
 			"name": "Angelica"
+
 		},
+		
 		"EN_ANIMALYGF_330": {
 			"name": "Animal"
 		},
+		
 		"EN_FRUTAEFGA_896": {
 			"name": "Fruta"
 		}
+
 	}
 }
