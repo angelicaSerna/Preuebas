@@ -1,19 +1,19 @@
 {
 	"culture": "culture",
 	"metadataVersion": "7.2.0.2024 BETA",
-	"moduleId": "MPRYC",
+	"moduleId": "SGNDP",
 	"modules": [
 		{
-			"moduleId": "MPRYC",
-			"moduleName": "MiPreoyectoGIT",
+			"moduleId": "SGNDP",
+			"moduleName": "SegundaPrueba",
 			"subModules": [
 				{
-					"subModuleId": "PRBAS",
-					"subModuleName": "Pruebas"
+					"subModuleId": "FRMLR",
+					"subModuleName": "Formulario"
 				}
 			]
 		}
 	],
-	"projectName": "PrimerProyecto",
-	"subModuleId": "PRBAS"
+	"projectName": "Prueba",
+	"subModuleId": "FRMLR"
 }
